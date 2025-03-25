@@ -80,9 +80,4 @@
 
 ---
 
-## 📊 GitHub Stats:
-![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanemadelkholy&show_icons=true&theme=radical) 
-
----
-
 ✨ Passionate about building scalable backend systems and crafting efficient APIs.
